@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plugkevo" alt="plugkevo" /></a> </p>
 
-- 🔭 I’m currently working on **An android app for African Shipping Company**
+- 🔭 I’m currently working on **Multiple apps for NosteQ Networks**
 
 - 👯 I’m looking to collaborate on **Android and web projects using AI**
 
